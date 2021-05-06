@@ -1,6 +1,8 @@
 # d3-geom-geodevelopers
 
-Materiales de la charla ["Introducción a D3-geom"](https://www.meetup.com/es-ES/geodevelopers/events/277702735/) en la comunidad [GeoDevelopers](https://www.geodevelopers.org/)
+Materiales de la charla ["Introducción a D3-geom"](https://www.meetup.com/es-ES/geodevelopers/events/277702735/) en la comunidad [GeoDevelopers](https://www.geodevelopers.org/) el 5 de mayo del 2021.
+
+![](img/slides.png)
 
 Entrada SIGdeletras.com [Charla Introducción a D3-geom en GeoDevelopers]()
 
