@@ -8,21 +8,19 @@ Entrada SIGdeletras.com [Charla Introducción a D3-geom en GeoDevelopers]()
 
 [![](http://img.youtube.com/vi/XrLQIV9dRiY/0.jpg)](http://www.youtube.com/watch?v=XrLQIV9dRiY "")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XrLQIV9dRiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Instalación
 
-La estrucura del proyectos está creada con la aplicación ["Create App"](https://createapp.dev/) usando Parcel como empaquetador
+La estrucura del proyectos está creada con la aplicación ["Create App"](https://createapp.dev/) usando Parcel como empaquetador.
 
-- Clonar o descargar el repositorio
-- Entrara en la carpeta /d3-geom-geodevelopers
-- Instalar módulos
+Requiere tener instalado Node y el gestor de paquetes NPM.
 
+- Clonar o descargar el repositorio.
+- Entrar en la carpeta */d3-geom-geodevelopers*
+- Instalar módulos con npm o yarm
 ```
 npm install
 ```
 - Iniciar la aplicación en modo desarrollo
-
 ```
 npm start
 ```
