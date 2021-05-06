@@ -1,3 +1,6 @@
+dist/*
+!dist/index.html
+
 # Logs
 logs
 *.log

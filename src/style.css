@@ -1,0 +1,43 @@
+body {
+  font-family: "Lucida Sans: Lucida Sans Regular: Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: grey;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
+
+/* path {
+  fill: none;
+} */
+
+/* Clases usadas en D3 */
+
+.municipality {
+  /* fill: grey; */
+  stroke: grey;
+  stroke-width: 0.9px;
+  cursor: pointer;
+}
+
+.municipality:hover {
+  fill: red;
+  fill-opacity: 0.5;
+  stroke: white;
+  stroke-width: 1.2px;
+}
+
+.legend_text {
+  fill: white;
+  font-size: 0.8em;
+}
