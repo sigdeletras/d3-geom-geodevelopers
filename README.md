@@ -4,7 +4,7 @@ Materiales de la charla ["Introducción a D3-geom"](https://www.meetup.com/es-ES
 
 ![](img/slides.png)
 
-Entrada SIGdeletras.com [Charla Introducción a D3-geom en GeoDevelopers]()
+Entrada SIGdeletras.com [Charla Introducción a D3-geom en GeoDevelopers](http://sigdeletras.com/2021/charla-introduccion-d3-geo-en-geodevelopers/)
 
 ## Vídeo de la charla
 
